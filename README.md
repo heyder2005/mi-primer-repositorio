@@ -2,7 +2,7 @@
 <html lang="es">
 <head>
     <meta charset="UTF-8">
-    <title>Primera pagina UNEFA</title>
+    Primera pagina UNEFA
     
 </head>
 <body>
