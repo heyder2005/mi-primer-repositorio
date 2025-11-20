@@ -1,0 +1,15 @@
+[filter "lfs"]
+	clean = git-lfs clean -- %f
+	smudge = git-lfs smudge -- %f
+	process = git-lfs filter-process
+	required = true
+[use]
+	name = heyder2005
+	email = heyder.luna2005@gmail.com
+[color]
+	ui = true
+[init]
+	defaultBranch = main
+[user]
+	name = heyder2005
+	email = heyder.luna2005@gmail.com
