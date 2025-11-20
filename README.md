@@ -7,7 +7,8 @@
 </head>
 <body>
     <!-- Logo UNEFA -->
-    <img src="https://seeklogo.com/images/U/unefa-logo-3FC9336783-seeklogo.com.png" alt="Logo UNEFA" width="150">
+    <img src="images/unefa-logo.png" alt="Logo UNEFA" width="150">
+
     
     <h1>Bienvenidos</h1>
     <h2>UNEFA</h2>
