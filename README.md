@@ -10,6 +10,8 @@
     <h2>UNEFA</h2>
     <p>Esta es mi primera pagina</p>
     <p>Compartiendo lo aprendido y aprendiendo con ustedes</p>
+    <img src="https://seeklogo.com/images/U/unefa-logo-3FC9336783-seeklogo.com.png" alt="">
+
     
 </body>
 </html>
